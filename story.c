@@ -25,7 +25,8 @@ int main( void )
 	// Add your sentence.
 	// Don't forget to update the header file.
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
-	    
+	jlz83Sentence1();
+	jlz83Sentence_FINAL();
 	    
 	// DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
